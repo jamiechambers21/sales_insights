@@ -9,8 +9,6 @@ Additionally, I have connected the MySQL database to Power BI to create a simple
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
